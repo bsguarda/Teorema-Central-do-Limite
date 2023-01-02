@@ -1,4 +1,4 @@
-# Teorema-Central-do-Limite
+# Teorema Central do Limite
 
 Esse teorema é um importante resultado da estatística e a demonstração de muitos outros teoremas estatísticos dependem dele.
 Em teoria das probabilidades, esse teorema afirma que quando o tamanho da amostra aumenta, a distribuição amostral da sua média aproxima-se cada vez mais de uma distribuição normal. Este resultado é fundamental na teoria da inferência estatística.
